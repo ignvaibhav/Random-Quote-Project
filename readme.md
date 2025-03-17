@@ -13,3 +13,4 @@
 
 # Deployment link
 
+https://wisdomwizard.vercel.app/
